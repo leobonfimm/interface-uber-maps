@@ -20,7 +20,7 @@ import {
   Back, 
 } from './styles'
 
-GeoCoder.init('AIzaSyDfUlZzh9SP0Tt7A50gyiROLaaBq63BgmY');
+GeoCoder.init('');
 
 export default class Map extends Component {
   state = {
